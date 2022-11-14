@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fabian
-- 👀 I’m interested in Game Development and Design
-- 🌱 I’m currently learning C++ and C#
+- 👀 I’m interested in Game Development and Design!
+- 🌱 I’m currently learning JS, Vue and Python!
 
 <!---
 fabianw96/fabianw96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
